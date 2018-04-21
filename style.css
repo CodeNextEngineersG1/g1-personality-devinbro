@@ -17,9 +17,14 @@ main{
 }
 #try-again, #form-submit{
   margin: 10px auto 10px auto;
+
+  width:200px;
+
+  height: 50px;
+
 }
 #try-again{
-  display:none;
+  display: none;
 
 }
 #quiz-wrapper {
@@ -29,5 +34,5 @@ main{
   justify-content: space-around;
 }
 .question{
-  
+
 }
